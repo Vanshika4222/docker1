@@ -1,1 +1,1 @@
-FROM ubantu
+FROM ubuntu
