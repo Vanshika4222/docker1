@@ -1,1 +1,1 @@
-FROM tomcat
+FROM tomcat 8.0
